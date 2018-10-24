@@ -1,0 +1,7 @@
+VERSION=0.11.0
+DEB_VERSION=1
+PACKAGE_NAME=mysqld-exporter
+PROGRAM_NAME=mysqld_exporter
+UPSTREAM_NAME=mysqld_exporter
+EXTRA_INSTALL_DIRS=""
+URL=https://github.com/prometheus/mysqld_exporter/releases/download/v${VERSION}/mysqld_exporter-${VERSION}.linux-amd64.tar.gz
