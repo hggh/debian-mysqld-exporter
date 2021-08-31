@@ -1,4 +1,4 @@
-VERSION=0.12.1
+VERSION=0.13.0
 DEB_VERSION=1
 PACKAGE_NAME=mysqld-exporter
 PROGRAM_NAME=mysqld_exporter
