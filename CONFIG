@@ -1,10 +1,11 @@
-VERSION=0.13.0
+VERSION=0.13.0.1
 DEB_VERSION=1
 PACKAGE_NAME=mysqld-exporter
 PROGRAM_NAME=mysqld_exporter
 UPSTREAM_NAME=mysqld_exporter
 EXTRA_INSTALL_DIRS=""
-URL=https://github.com/prometheus/mysqld_exporter/releases/download/v${VERSION}/mysqld_exporter-${VERSION}.linux-amd64.tar.gz
+#URL=https://github.com/prometheus/mysqld_exporter/releases/download/v${VERSION}/mysqld_exporter-${VERSION}.linux-amd64.tar.gz
+URL=https://github.com/hggh/mysqld_exporter/releases/download/v${VERSION}/mysqld_exporter-${VERSION}.linux-amd64.tar.gz
 
 S3_REGION=eu-central-1
 S3_BUCKET=debian-repo.scireum.com
